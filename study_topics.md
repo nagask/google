@@ -5,3 +5,5 @@
 ## Data Structures ##
 1. Red/Black Tree
 2. Binary Tree
+## Python ##
+* mutable objects are passed by reference

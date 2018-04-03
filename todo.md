@@ -1,5 +1,11 @@
+
+### Current ###
+
 1. Revise the working and use  of popular data structures like linked list, trees (binary, treap, (red  black, avl : optional)), priority queues, heap (min, max heaps), stack,  hashtable
-2. Learn the equivalent of these theoretical data structures in the language of your choice. e.g. in Java you have HashMap, LinkedHashMap, TreeSet, HashSet, etc.
+
+### Remaining ###
+
+2. Learn the equivalent of these theoretical data structures  in the language of your choice. e.g. in Java you have HashMap, LinkedHashMap, TreeSet, HashSet, etc.
 3. Learn the implementation differences in these as you have to write real code, not pseudo code during the interview.
 4. Go through standard algorithms which you learn in school e.g. different sorting algorithms, graph traversals, MST, shortest path, etc.
 5. Learn Big O notation and make sure you can deduce the time complexity of any algorithm (at least the ones you write)
