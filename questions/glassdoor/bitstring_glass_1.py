@@ -6,6 +6,7 @@ class Node():
     def __str__(self):
         return "{Payload: " + self.payload + " }"
 
+
     def __repr__(self):
         return self.__str__()
 
